@@ -1,1 +1,1 @@
-$( '.print_av' ).toggle()
+$( '.print-av' ).toggle()
