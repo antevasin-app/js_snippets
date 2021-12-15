@@ -1,1 +1,1 @@
-$( 'form' ).submit()
+$('.btn-primary-modal-action').trigger('click')
