@@ -1,1 +1,1 @@
-$( '#path' ).css( 'width', '1000px' )
+$( '#path' ).css( 'width', '830px' )
